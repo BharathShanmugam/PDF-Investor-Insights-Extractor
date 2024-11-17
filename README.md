@@ -29,8 +29,8 @@ A Python-based solution to extract and analyze key information from company PDF 
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/pdf-investor-insights.git
-cd pdf-investor-insights
+git clone https://github.com/BharathShanmugam/PDF-Investor-Insights-Extractor.git
+cd PDF-Investor-Insights-Extractor
 ```
 
 ### **2. Install Dependencies**
